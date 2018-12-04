@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mtumilowicz/junit5-nested-test.svg?branch=master)](https://travis-ci.com/mtumilowicz/junit5-nested-test)
+
 # junit5-nested-test
 Example of using nested tests in Junit5.
 
